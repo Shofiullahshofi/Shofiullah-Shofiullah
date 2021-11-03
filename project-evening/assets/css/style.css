@@ -1,0 +1,15 @@
+#top-bar{
+    padding: 10px 0px;
+    background-color: #f5f5f5;
+}
+
+.d-flex i{
+    color: #5cb874;
+    margin-right: 5px;
+}
+
+.d-flex a{
+    color : #444444;
+    text-decoration: none;
+    margin-right: 10px;
+}
